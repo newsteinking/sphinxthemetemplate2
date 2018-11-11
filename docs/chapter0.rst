@@ -5,7 +5,7 @@ Chapter 0: About
 
                         by sean
    Base on  Python : Beginning Programming with Python
-.. image:: ./img/chapter0_1.png
+.. image:: ./img/chapter0_1.jpg
 
 .. _default_args:
 
