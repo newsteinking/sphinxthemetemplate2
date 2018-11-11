@@ -1,1 +1,1 @@
-# sphinxthemetemplate2
+# pythonbasic
